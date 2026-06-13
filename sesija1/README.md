@@ -1,4 +1,4 @@
-# Sesija 2
+# Sesija 1
 
 Kelione is Neverwinterio prasidejo nesekmingai. Vos po vienos valandos isplaukus is uosto, laivas buvo uzpultas piratu, su juoda veliava ir raudonu trikampiu per viduri - Devyniu Pragaru vyriausiojo velnio simboliu - Asmodejaus. Kapitonas Kalibras saude su pragarisku pistoletu uztaisomu Soul Coin'ais ir mete sprogstamas bombas po kojomis, taciau Aerionas, Bedzius, Solarius ir Barivikas atmuse uzpuolusius piratus. Keleta paeme i nelaisve, taciau pats Kapitonas Kalibras misty step'ino atgal i savo laiva.
 
