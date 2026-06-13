@@ -12,4 +12,4 @@ Prieš kelias dienas Gundarluno karalius Olgravas Raudonkirvis pranešė apie ne
 
 Jūs, rytoj, išplauksite iš Neverwinterio į Gundarluną laivu, vardu "The Voyage".
 
-![intro](images/intro.png)
+![intro](img/intro.png)
