@@ -1,4 +1,31 @@
-# Introduction
+# PCs 
+
+- Borivikas, Aasimar, Eldritch Knight Fighter 3
+- Aerion, Aasimar, Wild-Magic Sorcerer 3
+- Bedzius, Aquatic-Elf, Soulknife Rogue 3
+- Solarius, Human, Light Domain Cleric 3
+
+## Renown
+
+| Faction | Renown |
+|---------|--------|
+|Lord's Alliance |0|
+|Zhentarim       |0|
+|Harpers|0|
+|Order of the Gauntlet|0|
+
+## Vehicles
+
+- Aboard mercenary galley "Voyage" owned by White Sails Company, rented out by Lord Neverember.
+
+## Bastions
+
+None
+
+
+---
+
+# Campaign introduction
 
 Neverwinteris tik neseniai vėl atsistojo ant kojų. Po vulkano išsiveržimo, prasivėrusios bedugnės į Underdark ir orkiškos atakos, lordui Dagultui Neveremberiui pavyko įžiebti viltį Neverwinteryje. Išorinės sienos vėl atstatomos, rajonai pildosi gyventojais, o gyvenimas grįžta į buvusią šlovę, kuri kadaise miestui pelnė Šiaurės Brangakmenio titulą.
 
