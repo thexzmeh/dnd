@@ -51,7 +51,7 @@ someone else.
 ## Vehicles
 
 - ~~Aboard mercenary galley "Voyage" owned by White Sails Company, rented out by Lord Neverember.~~
-- [Longship](https://5e.tools/items.html#longship_xphb) pavadinimu "???" su isdrozinetu/a "???" laivo priekyje.
+- [Longship](https://5e.tools/items.html#longship_xphb) pavadinimu "???" su isdrozinetu/a "???" laivo priekyje su 40 berzerkeriu igula (crew wages 2gp/each - 80gp/day).
 
 ## Bastions
 

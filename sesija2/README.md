@@ -61,7 +61,7 @@ Iejimas i kasykla buvo uzgriuves po neseniai ivykusios audros, taciau komandiniu
 
 Kasykloje dar susidure su ten keliais gyvenanciais padarais, tokiais kaip grick'as ar rust monsters. Grick'as greitai sukapojo, o ant rudziu monstru uzstume ir uzridejo kruva kasyklos vezimeliu pilnu akmenu ir juos taip sutraiske. Tai leido herojams netrukdomiems nusileisti gilyn i kasykla bei apziureti kalve. Kalveje miegojo ugnies elementalas, taciau jam nespejus prabusti ir isiaudrinti veikejai istempe kalveje buvusia skrynia ir saugiai uztrenke duris, apsaugotas runomis, kad ugnies elementas neistruktu.
 
-Susirinke vertingus daiktus herojai gryzo atgal i fiskbarka. Jarlas iskele puota ir apdovanojo juos 500gp. Barivikas puikiai apdainavo ju zygdarbius. Gryzus atgal i sostine, karalius Raudonbarzdis taip pat iskele didziule puota bei leido issirinkti sau bet koki patiksianti longship'a is jo flotiles.
+Susirinke vertingus daiktus herojai gryzo atgal i fiskbarka. Jarlas iskele puota ir apdovanojo juos 500gp. Barivikas puikiai apdainavo ju zygdarbius. Gryzus atgal i sostine, karalius Raudonbarzdis taip pat iskele didziule puota bei leido issirinkti sau bet koki patiksianti longship'a is jo flotiles. Taip pat, prie laivo paskyre ir 40 gundarluno berzerkeriu kaip igula. Jiems teks moketi atlyginima patiems veikejams - 2gp/diena.
 
 - 12x iron ingots (1gp 10lbs/each)
 - 3x gold ingots (10gp 10lbs/each)
