@@ -1,27 +1,61 @@
-# PCs 
+# PCs (souls belong to Asmodeus now)
 
-- Borivikas, Aasimar, Eldritch Knight Fighter 3
-- Aerion, Aasimar, Wild-Magic Sorcerer 3
-- Bedzius, Aquatic-Elf, Soulknife Rogue 3
-- Solarius, Human, Light Domain Cleric 3
+- Borivikas, Aasimar, Eldritch Knight Fighter 5
+  - The color of your sleep is 
+red: blood, fire, burning rage. You don’t dream—
+not in the normal sense. When you close your 
+eyes, all you see is red. You wake bathed in sweat, 
+with your heart pounding, but you can’t remember 
+any details beyond that single color. Red. 
+- Aerion, Aasimar, Wild-Magic Sorcerer 5
+  - You have strange dreams 
+not connected to your life. In them, you're a lowly 
+servant … yet somehow your sister is the Queen, 
+and she is beloved. Other servants, guards, dip
+lomats, members of the court—they all go on and 
+on about how smart she is, how beautiful, how 
+perfect, while you toil in the shadows, forgotten 
+and ignored.
+- Bedzius, Aquatic-Elf, Soulknife Rogue 5
+  - You were once a master 
+of deceit, but in your dreams you're trapped in a 
+labyrinth of your own lies, forced to run through 
+the maze while being hunted by shadowy enemies 
+and never able to find a way out.
+- Solarius, Human, Light Domain Cleric 5
+  - Your dreams are filled 
+with the endless counting of gold coins—hun
+dreds, thousands, millions, all piled in an enor
+mous chamber. Each one must be counted by 
+hand, and you can’t stop until you’re done … but 
+the mountain of coins just continues to grow and 
+grow. Worst of all, you know in your heart they 
+aren't even yours; you're just counting them for 
+someone else.
+
+## Session log
+
+- [Sesija 1 - 2026-06-12](https://github.com/thexzmeh/dnd/tree/main/sesija1)
+- [Sesija 2 - 2026-06-19](https://github.com/thexzmeh/dnd/tree/main/sesija2)
+- [Sesija 3 - 2026-??-??](https://github.com/thexzmeh/dnd/tree/main/sesija3)
 
 ## Renown
 
 | Faction | Renown |
 |---------|--------|
-|Lord's Alliance |0|
+|Lord's Alliance |3|
 |Zhentarim       |0|
-|Harpers|0|
+|Harpers|3|
 |Order of the Gauntlet|0|
 
 ## Vehicles
 
-- Aboard mercenary galley "Voyage" owned by White Sails Company, rented out by Lord Neverember.
+- ~~Aboard mercenary galley "Voyage" owned by White Sails Company, rented out by Lord Neverember.~~
+- [Longship](https://5e.tools/items.html#longship_xphb) pavadinimu "???" su isdrozinetu/a "???" laivo priekyje.
 
 ## Bastions
 
 None
-
 
 ---
 
