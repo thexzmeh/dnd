@@ -8,7 +8,7 @@ Tada apsilanke sugriuvusio boksto uzeigoje. Ten Bedzius pabendravo su savo Zhent
 
 Vakare, pasiklausineje mieste, kas uzsiimtu magisku daiktu taisymu buvo nukreipti i Apsiaustu boksta. Ten nykstuke iliuzioniste Mardrede atkurusi magu ordina gamina ir taiso ivairius magiskus daiktus. Aeorianas sutare, kad ji pataisys Cube of Force - turetu uztrukti apie savaite.
 
-Sekancia diena pasiruose piratu antpuolio gynybai. Suorganizavo sargybinius su Dagulto Neveremberio palaiminimu. Deja piratai buvo pasirode esantys vaiduokliski ir visus ginybinius itvirtinimus perplauke kiaurai. Vienas is piratu laivu kiaurai perplaukes ir visus tiltus atsidure prie Oghmos ziniu namu. Nuskubeje ten, veikejai rado jau islauztas duris vedancias i pozemi, kur savo irstva pasirodo yra isikures Aboleth - Kzixxaro. Nors aboleth ir bande kartas nuo karto veikejus uzvaldyti mintimis, taciau herojai vistiek ji apgyne nuo vaiduoklisku piratu.
+Sekancia diena pasiruose piratu antpuolio gynybai. Suorganizavo sargybinius su Dagulto Neveremberio palaiminimu. Deja piratai buvo pasirode esantys vaiduokliski ir visus ginybinius itvirtinimus perplauke kiaurai. Vienas is piratu laivu kiaurai perplaukes ir visus tiltus atsidure prie Oghmos ziniu namu. Nuskubeje ten, veikejai rado jau islauztas duris vedancias i pozemi, kur savo irstva pasirodo yra isikures Aboleth - Kzixxaro. Nors aboleth ir bande kartas nuo karto veikejus uzvaldyti mintimis, taciau herojai vistiek ji apgyne nuo vaiduoklisku piratu. Uz tai, lordas Neveremberis apdovanojo herojus didziuliu dvaru, kuri herojai gales naudoti kaip savo bastiona.
 
 ![Ghost Ship](img/ghostship.png)
 
