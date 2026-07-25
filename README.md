@@ -37,25 +37,31 @@ someone else.
 
 - [Sesija 1 - 2026-06-12](https://github.com/thexzmeh/dnd/tree/main/sesija1)
 - [Sesija 2 - 2026-06-19](https://github.com/thexzmeh/dnd/tree/main/sesija2)
-- [Sesija 3 - 2026-??-??](https://github.com/thexzmeh/dnd/tree/main/sesija3)
+- [Sesija 3 - 2026-06-26](https://github.com/thexzmeh/dnd/tree/main/sesija3)
+- [Sesija 4 - 2026-07-10](https://github.com/thexzmeh/dnd/tree/main/sesija4)
 
 ## Renown
 
 | Faction | Renown |
 |---------|--------|
-|Lord's Alliance |3|
-|Zhentarim       |0|
-|Harpers|3|
+|Lord's Alliance |10|
+|Zhentarim       |5|
+|Harpers|10|
 |Order of the Gauntlet|0|
+|Kraken Society|5|
 
 ## Vehicles
 
 - ~~Aboard mercenary galley "Voyage" owned by White Sails Company, rented out by Lord Neverember.~~
-- [Longship](https://5e.tools/items.html#longship_xphb) pavadinimu "???" su isdrozinetu/a "???" laivo priekyje su 40 berzerkeriu igula (crew wages 2gp/each - 80gp/day).
+- [Longship](https://5e.tools/items.html#longship_xphb) pavadinimu "Neskestantis II" su auksine drakono galva laivo priekyje bei 40 berzerkeriu igula (crew wages 2gp/each - 80gp/day).
 
 ## Bastions
 
-None
+Dvaras Neverwinteryje su:
+- Arcane Study palepeje su balkonu (Aeorian)
+- Tempus Sanctuary (Solarius)
+- Armory (Borivikas)
+- Zhentarim Travel Station kieme (Bedzius) 
 
 ---
 
