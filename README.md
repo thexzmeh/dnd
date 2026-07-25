@@ -39,6 +39,7 @@ someone else.
 - [Sesija 2 - 2026-06-19](https://github.com/thexzmeh/dnd/tree/main/sesija2)
 - [Sesija 3 - 2026-06-26](https://github.com/thexzmeh/dnd/tree/main/sesija3)
 - [Sesija 4 - 2026-07-10](https://github.com/thexzmeh/dnd/tree/main/sesija4)
+- [Sesija 5 - 2026-07-30??](https://github.com/thexzmeh/dnd/tree/main/sesija5)
 
 ## Renown
 

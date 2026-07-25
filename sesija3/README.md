@@ -19,3 +19,9 @@ Sekmingai apgyne miesta ir aboleth nuo uzpuoliku veikejai pailsejo. Mieste paskl
 Persikelus atgal ir vos spejus atsipusti, staiga pries juos pasirode Mardredes iliuzija, kuri paprase skubios pagalbos, nes jos boksla tika uzpuole. Nubegus i Apsiaustu boksta, pamate, kad ji uzpuole githyankiai. Sumusti ir isgasdinti burtininkes padejejai buvo grasinami mirtimi, jeigu Mardrede neatiduos savo sukurtu Robe of Stars. Githyankiai, sake zinantys apie nukritusi mind flayeriu laiva, todel jiems ir reikia Robe of Stars, kad pasiruostu juos pulti ir jeigu mind fleyeriai begs i astral plane'a - galetu juos sekti (plane shift). Herojai susitvarke su sia situacija be smurto - perdave githyankiams Silver Sword, kuri buvo rade mind flayeriu laive bei pasidalino po 2 apsiaustus. 2 apsiaustai atiteko githyankiams ir 2 veikejams. Nors ir norejo juos grazinti Mardredei ji patikino, kad gali pasilikti apsiaustus uz isgelbetas ju gyvybes. Patys githyankiai uzsimine, kad jie gyvena Flame Fault'e jeigu noretu kartu pulti mind flayerius ar siaip pabendrauti.
 
 ![Githyanki](img/githyanki.jpg)
+
+Lordas Dagult Neveremberis paprase, kad herojai nuvyktu i Luskan'a, piratu miesta, kad issiaiskintu kodel ir kas cia juos puola.
+
+Len-Jes paprase pagalbos, kad butu lengviau apsiginti nuo sekancia ataku. Nuvykti Mintarn miesta ir issiaiskinti, kodel nusamdyti samdiniai per White Sails kompanija pastoviai veluoja arba atplaukia maziau nei sutarta.
+
+Kzixxaro telepatijos budu pajaute, kad Fisher's Float kaimelyje (ant vieno is skraidancio earth mote'o netoli neverwinterio) yra stiprus telepatijos laidininkas, kuris tikriausiai susijes su jo uzpuolimu.
